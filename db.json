@@ -1,8 +1,8 @@
 {
   "datafeeds": [
-    { "id": 1, "device": "deviceA" },
-    { "id": 2, "device": "deviceB" },
-    { "id": 3, "device": "deviceC" }
+    { "id": 1, "device": "deviceA","batteryV":3.13,"APMacID0":"ssid10" },
+    { "id": 2, "device": "deviceB","batteryV":3.23,"APMacID0":"ssid20" },
+    { "id": 3, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
