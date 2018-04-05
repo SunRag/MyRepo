@@ -1,10 +1,10 @@
 {
   "datafeeds": [
-    { "id": 1, "device": "deviceA","batteryV":3.13,"APMacID0":"ssid10","RSSI0":-1,"APMacID1":"ss11","RSSI1":-11 },
-    { "id": 2, "device": "deviceB","batteryV":3.23,"APMacID0":"ssid20","RSSI0":-2,"APMacID1":"ss21","RSSI1":-12 },
-    { "id": 3, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30","RSSI0":-3,"APMacID1":"ss31","RSSI1":-13 },
-    { "id": 4, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30","RSSI0":-3,"APMacID1":"ss31","RSSI1":-13 },
-    { "id": 7, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30","RSSI0":-3,"APMacID1":"ss31","RSSI1":-13 }
+    { "id": 1, "device": "deviceA","batteryV":3.13,"APMacID0":"ssid10","RSSI0":-1,"APMacID1":"ss11","RSSI1":-11,"APMacID2":"ss11","RSSI2":-11,"APMacID3":"ss11","RSSI3":-11,"APMacID4":"ss11","RSSI4":-11 },
+    { "id": 2, "device": "deviceB","batteryV":3.23,"APMacID0":"ssid20","RSSI0":-2,"APMacID1":"ss21","RSSI1":-12,"APMacID2":"ss11","RSSI2":-11,"APMacID3":"ss11","RSSI3":-11,"APMacID4":"ss11","RSSI4":-11 },
+    { "id": 3, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30","RSSI0":-3,"APMacID1":"ss31","RSSI1":-13,"APMacID2":"ss11","RSSI2":-11,"APMacID3":"ss11","RSSI3":-11,"APMacID4":"ss11","RSSI4":-11 },
+    { "id": 4, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30","RSSI0":-3,"APMacID1":"ss31","RSSI1":-13,"APMacID2":"ss11","RSSI2":-11,"APMacID3":"ss11","RSSI3":-11,"APMacID4":"ss11","RSSI4":-11 },
+    { "id": 7, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30","RSSI0":-3,"APMacID1":"ss31","RSSI1":-13,"APMacID2":"ss11","RSSI2":-11,"APMacID3":"ss11","RSSI3":-11,"APMacID4":"ss11","RSSI4":-11 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
