@@ -1,14 +1,17 @@
 {
-  "myposts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "datafeeds": [
+    { "id": 1, "device": "device1", "batteryV":3.15, "APMacID0":"sssid0", "RSSI0:-17.7, "APMacID1":"sssid1", "RSSI1:-17.7},
+    { "id": 1, "device": "device1", "batteryV":3.13, "APMacID0":"sssid1", "RSSI0:-15.7, "APMacID1":"sssid2", "RSSI1:-47.7},
+    { "id": 1, "device": "device1", "batteryV":3.11, "APMacID0":"sssid7", "RSSI0:-37.7, "APMacID1":"sssid3", "RSSI1:-57.7}
   ],
-  "mycomments": [
+  "deletethis": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "myprofile": {
-    "name": "typicode"
+  "configuration": {
+    "name": "ESP8266 beacon data",
+    "api-url":"put api's url here",
+    "api-key":"put api's key here",
+    "tx-interval-minutes":10
   }
 }
