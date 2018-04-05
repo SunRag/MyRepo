@@ -9,6 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "config": {
-    "name": "ESP8266 beacon"
+    "name": "ESP8266 beacon",
+    "api-url": "put api's url here",
+    "api-key": "put api's key here",
+    "tx-interval-min":10
   }
 }
