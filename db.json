@@ -1,14 +1,14 @@
 {
   "datafeeds": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "device": "deviceA" },
+    { "id": 2, "device": "deviceB" },
+    { "id": 3, "device": "deviceC" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "config": {
+    "name": "ESP8266 beacon"
   }
 }
