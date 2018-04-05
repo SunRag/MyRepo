@@ -1,8 +1,8 @@
 {
   "datafeeds": [
-    { "id": 1, "device": "device1", "batteryV":3.15, "APMacID0":"sssid0", "RSSI0:-17.7, "APMacID1":"sssid1", "RSSI1:-17.7},
-    { "id": 1, "device": "device1", "batteryV":3.13, "APMacID0":"sssid1", "RSSI0:-15.7, "APMacID1":"sssid2", "RSSI1:-47.7},
-    { "id": 1, "device": "device1", "batteryV":3.11, "APMacID0":"sssid7", "RSSI0:-37.7, "APMacID1":"sssid3", "RSSI1:-57.7}
+    { "id": 1, "device": "device1", "batteryV":3.15, "APMacID0":"sssid0", "RSSI0:-17.7, "APMacID1":"sssid1", "RSSI1":-17.7},
+    { "id": 1, "device": "device1", "batteryV":3.13, "APMacID0":"sssid1", "RSSI0:-15.7, "APMacID1":"sssid2", "RSSI1":-47.7},
+    { "id": 1, "device": "device1", "batteryV":3.11, "APMacID0":"sssid7", "RSSI0:-37.7, "APMacID1":"sssid3", "RSSI1":-57.7}
   ],
   "deletethis": [
     { "id": 1, "body": "some comment", "postId": 1 },
