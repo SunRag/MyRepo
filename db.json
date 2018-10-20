@@ -14,6 +14,6 @@
     "name": "ESP8266_SIM7000A",
     "api-url": " : my url.com",
     "api-key": " : this is not a key",
-    "tx-interval-min":10
+    "tx-interval-min":4
   }
 }
