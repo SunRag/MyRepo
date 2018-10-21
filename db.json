@@ -11,7 +11,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "config": {
-    "name": "DevID",
+    "device-ID": "123_ABC",
     "api-url": " : hi",
     "api-key": " : bye",
     "deepsleep-min":1,
