@@ -14,7 +14,7 @@
     "device-ID": "123_XYZ",
     "api-url": " : OK",
     "api-key": " : BYE",
-    "deepsleep-min":60,
-    "txrx-interval-min":120
+    "deepsleep-min":5,
+    "txrx-interval-min":10
   }
 }
