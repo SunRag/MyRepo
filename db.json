@@ -11,9 +11,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "config": {
-    "device-ID": "123_ABC",
-    "api-url": " : hi",
-    "api-key": " : bye",
+    "device-ID": "123_XYZ",
+    "api-url": " : OK",
+    "api-key": " : BYE",
     "deepsleep-min":60,
     "txrx-interval-min":120
   }
