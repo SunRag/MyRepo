@@ -15,6 +15,6 @@
     "api-url": " : OK",
     "api-key": " : BYE",
     "deepsleep-min":60,
-    "txrx-interval-min":120
+    "txrx-interval-min":240
   }
 }
