@@ -11,10 +11,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "config": {
-    "device-ID": "123_XYZ",
-    "api-url": " : OK",
-    "api-key": " : BYE",
-    "deepsleep-min":30,
-    "txrx-interval-min":60
+    "device-ID": "1NEWZ",
+    "api-url": " : SEC",
+    "api-key": " : TIME",
+    "deepsleep-min":1,
+    "txrx-interval-min":2
   }
 }
