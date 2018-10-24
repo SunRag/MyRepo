@@ -14,7 +14,7 @@
     "device-ID": "1NEWZ",
     "api-url": " : SEC",
     "api-key": " : TIME",
-    "deepsleep-min":1,
-    "txrx-interval-min":2
+    "deepsleep-min":10,
+    "txrx-interval-min":20
   }
 }
