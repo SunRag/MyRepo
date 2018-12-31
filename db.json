@@ -15,6 +15,6 @@
     "api-url": "www.g.com",
     "api-key": "key88",
     "deepsleep-min":1,
-    "txrx-interval-min":15
+    "txrx-interval-min":3
   }
 }
