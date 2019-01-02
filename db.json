@@ -14,7 +14,7 @@
     "device-ID": "123ABC_789",
     "api-url": "www.g.com",
     "api-key": "DONT USE VEHICLE",
-    "deepsleep-min":5,
-    "txrx-interval-min":15
+    "deepsleep-min":1,
+    "txrx-interval-min":1
   }
 }
