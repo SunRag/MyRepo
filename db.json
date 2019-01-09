@@ -14,7 +14,7 @@
     "device-ID": "123ABC_789",
     "api-url": "www.g.com",
     "api-key": "GOOD",
-    "deepsleep-min":60,
-    "txrx-interval-min":60
+    "deepsleep-min":180,
+    "txrx-interval-min":180
   }
 }
