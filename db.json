@@ -7,13 +7,13 @@
     { "id": 5, "device": "deviceC","batteryV":3.33,"APMacID0":"ssid30","RSSI0":-3,"APMacID1":"ss31","RSSI1":-13,"APMacID2":"ss11","RSSI2":-11,"APMacID3":"ss11","RSSI3":-11,"APMacID4":"ss11","RSSI4":-11 }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": " DO NOT  OPERATE VEHICLE", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "config": {
     "device-ID": "123ABC_789",
     "api-url": "www.g.com",
-    "api-key": " DO NOT  OPERATE VEHICLE",
+    "api-key": "GOOD",
     "deepsleep-min":15,
     "txrx-interval-min":15
   }
