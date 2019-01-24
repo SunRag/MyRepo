@@ -13,7 +13,7 @@
   "config": {
     "device-ID": "123ABC_789",
     "api-url": "www.g.com",
-    "api-key": " STOP    TEST ",
+    "api-key": "Have A Good DAY"
     "deepsleep-min":120,
     "txrx-interval-min":120
   }
