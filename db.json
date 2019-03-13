@@ -14,7 +14,7 @@
     "device-ID": "123ABC_789",
     "api-url": "www.g.com",
     "api-key": " Have a Nice Day  -----",
-    "deepsleep-min":15,
-    "txrx-interval-min":15
+    "deepsleep-min":2,
+    "txrx-interval-min":2
   }
 }
