@@ -13,7 +13,7 @@
   "config": {
     "device-ID": "123ABC_789",
     "api-url": "www.g.com",
-    "api-key": "have a nice day",
+    "api-key": "have a sweet day",
     "deepsleep-min":2,
     "txrx-interval-min":2
   }
